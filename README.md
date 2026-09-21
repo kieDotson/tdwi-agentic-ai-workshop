@@ -15,7 +15,7 @@ The guide walks you through everything: a quick three-step checklist, plus a det
 
 **The short version:**
 
-1. **Install Langflow Desktop** — version 1.11.x (1.11.0 preferred). Free, and the guide has full instructions.
+1. **Install Langflow Desktop** — UPDATE Langlow has released version 1.12x so we will be using that one. If you have already downloaded 1.11.0, you can use that one or upgrade! Free, and the guide has full instructions.
 2. **Sign in to Google Colab** at [colab.research.google.com](https://colab.research.google.com) — runs in your browser, nothing to install.
 3. **Get this repository** — clone it, or click the green **Code** button above and choose **Download ZIP**.
 
